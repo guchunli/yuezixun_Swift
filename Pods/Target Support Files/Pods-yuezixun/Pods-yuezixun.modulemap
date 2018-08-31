@@ -1,0 +1,6 @@
+framework module Pods_yuezixun {
+  umbrella header "Pods-yuezixun-umbrella.h"
+
+  export *
+  module * { export * }
+}
